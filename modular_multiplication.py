@@ -1,5 +1,14 @@
+
+'''
+Dibutuhkan : 
+numpy, matplotlib, PyQt6, PySide6
+'''
+
 import numpy as np 
+import matplotlib
 import matplotlib.pyplot as plt 
+
+matplotlib.use('QtAgg')
 
 # Modular Multiplication By Ayub AG
 
